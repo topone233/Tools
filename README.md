@@ -109,16 +109,12 @@
 #### 3.1 写作工具：Typora
 
 > 下载地址（官网）：[Typora](https://typora.io/)
->
-> 自用：0.9.89版本官网安装包：[蓝奏云](https://wwe.lanzous.com/icxyogbrykd)
 
 #### 3.2 图片上传工具：Picgo
 
 搭配Typora，效率神器
 
 > 下载地址（官网）：[Picgo](https://molunerfinn.com/PicGo)
->
-> 自用：2.2.2版本官网安装包:  [蓝奏云](https://wwe.lanzous.com/ie0iWgbryha) 
 
 #### 3.3 **图床：去不图床**
 
