@@ -108,20 +108,20 @@
 #### 3.1 NaviCat Premium 15
 #### 3.2 Telegram
 #### 3.3 Windows On Top
+------
+## 4. Markdown写作工具
 
-## 3. Markdown写作工具
-
-#### 3.1 写作工具：Typora
+#### 4.1 写作工具：Typora
 
 > 下载地址（官网）：[Typora](https://typora.io/)
 
-#### 3.2 图片上传工具：Picgo
+#### 4.2 图片上传工具：Picgo
 
 搭配Typora，效率神器
 
 > 下载地址（官网）：[Picgo](https://molunerfinn.com/PicGo)
 
-#### 3.3 **图床：去不图床**
+#### 4.3 **图床：去不图床**
 
 配置说明：https://dusays.com/241/
 
